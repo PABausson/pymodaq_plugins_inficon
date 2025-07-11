@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pymodaq_plugins_eurotherm"
+		}
+	],
+	"settings": {}
+}
